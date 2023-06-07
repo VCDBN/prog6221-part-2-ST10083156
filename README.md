@@ -3,3 +3,4 @@ This app was created so that users may be able to capture as many recipes as the
 
 ##App usage
 The application is coded in C# and runs on the visual studio 2002 IDE. Once the download of Visual Studio 2022 is complete, you will need to open the project in the IDE.
+Once open, the IDE will show you all the backend code for the program. 
