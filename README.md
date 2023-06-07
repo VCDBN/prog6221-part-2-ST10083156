@@ -12,4 +12,4 @@ Once open, the IDE will show you all the backend code for the program. All you a
 The project makes use of 4 classes, a Recipe class, an Ingredient class, a Step class and a main Program class. Each class aside from the program class has various variables that represent properties for each object created for the classes. The main Program class holds the Lists for each class and it uses user input to create each list and manipulate the data already entered into the list as well as add more data to it. The menu method calls on various methods to complete the tasks that the user chooses and it loops it until the user selects the option to end the application. 
 
 ##Fixes from part 1##
-From part 1 the code has used more input validation to check whether the user input is valid or not.
+From part 1 the code has used more input validation to check whether the user input is valid or not
